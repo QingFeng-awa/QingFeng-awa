@@ -26,13 +26,14 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/QingFeng-awa"><img src="https://badgen.net/badge/Github/QingFeng-awa/?icon=github" /></a>
-<a href="https://qm.qq.com/q/3d9mY78PoQ"><img src="https://badgen.net/badge/QQ/3094606169" /></a>
+<a href="https://github.com/QingFeng-awa"><img src="https://badgen.net/badge/Github/QingFeng-awa/1F2328?icon=github" /></a>
+<a href="https://qm.qq.com/q/3d9mY78PoQ"><img src="https://badgen.net/badge/QQ/3094606169/0056CC" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=QingFeng-awa&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=QingFeng-awa&abbreviated=true" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+![](https://hit.yhype.me/github/profile?user_id=151742581)
