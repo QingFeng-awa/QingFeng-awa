@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello%20World!&fontSize=90&fontAlign=50&fontAlignY=30&desc=My%20name%20is%20QingFeng.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=70A5FD&text=Hello%20World!&animation=fadeIn&desc=My%20name%20is%20QingFeng.&descAlignY=60&fontAlignY=40" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg 
@@ -10,16 +10,18 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=QingFeng-awa&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=QingFeng-awa&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=QingFeng-awa&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&locale=cn" />
+<!-- https://streak-stats.demolab.com/demo -->
+<img align="center" src="https://streak-stats.demolab.com?user=QingFeng-awa&theme=tokyonight&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
+<br>
+<br>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=QingFeng-awa&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=QingFeng-awa&theme=tokyo-night&hide_border=true&area=true&custom_title=QingFeng的GitHub提交历史" />
+<br>
+<br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingFeng-awa&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingFeng-awa&theme=tokyonight&hide_border=true&layout=compact&locale=cn&card_width=650" alt="GitHub Readme Stats" />
+<br><br>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=html,css,md" >
 </p>
@@ -31,9 +33,8 @@
 <a href="https://space.bilibili.com/1067544669"><img src="https://img.shields.io/badge/qid-QingFeng__awa-text?style=flat-square&logo=bilibili&logoColor=%23000&label=Bilibili&labelColor=%23FFF&color=%23000"></a>
 </p>
 
-<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=See%20You~&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=70A5FD&text=See%20you~&animation=fadeIn&desc=Hope%20your%20program%20is%20bug-free!&descAlignY=50&fontAlignY=70&section=footer&descAlign=50" />
 </p>
 
 ![](https://hit.yhype.me/github/profile?account_id=151742581)
