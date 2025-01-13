@@ -27,9 +27,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/QingFeng-awa"><img src="https://img.shields.io/badge/github-QingFeng--awa-text?style=flat-square&logo=github&logoColor=%23181717&label=Github&labelColor=%23FFF&color=%23181717"></a>
-<a href="https://qm.qq.com/q/3d9mY78PoQ"><img src="https://badgen.net/badge/QQ/3094606169/0056CC"></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=QingFeng-awa&abbreviated=true" />
+<a href="https://qm.qq.com/q/3d9mY78PoQ"><img src="https://img.shields.io/badge/qid-QingFengSQ-text?style=flat-square&logo=qq&logoColor=%23000&label=QID&labelColor=%23FFF&color=%23000"></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
