@@ -20,7 +20,7 @@
 <br>
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingFeng-awa&theme=tokyonight&hide_border=true&layout=compact&locale=cn&card_width=650" alt="GitHub Readme Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingFeng-awa&theme=tokyonight&hide_border=true&layout=compact&locale=cn&card_width=800" alt="GitHub Readme Stats" />
 <br><br>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=html,css,md" >
