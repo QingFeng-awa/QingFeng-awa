@@ -3,23 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=70A5FD&text=Hello%20World!&animation=fadeIn&desc=My%20name%20is%20QingFeng.&descAlignY=60&fontAlignY=40" />
 </p>
 
-<!-- https://github.com/DenverCoder1/readme-typing-svg 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
-</p>-->
-
-<p align="center">
-<!-- https://streak-stats.demolab.com/demo  
-<img align="center" src="https://streak-stats.demolab.com?user=QingFeng-awa&theme=tokyonight&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
-<br>
-<br>  -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=QingFeng-awa&theme=tokyo-night&hide_border=true&area=true&custom_title=QingFeng的GitHub提交历史" />
-<br>
-<br>
+<br><br>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingFeng-awa&theme=tokyonight&hide_border=true&layout=compact&locale=cn&card_width=800" alt="GitHub Readme Stats" />
 <br><br>
+
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=html,css,md" >
 </p>
